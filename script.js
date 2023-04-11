@@ -37,8 +37,6 @@ function generatePassword() {
 
 
 function getPrompts() {
-
-
   choiceArr = [];
   characterLength = parseInt(prompt("How many characters would you like your password to contain? (choose between 8-129 characters"));
 

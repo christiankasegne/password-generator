@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #Password Generator
+=======
+>>>>>>> 38501500f275b76b50ca1ac7870ad7b60fc1e75c
 
 ## Description
 
